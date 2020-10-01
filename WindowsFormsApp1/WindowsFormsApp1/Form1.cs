@@ -15,6 +15,12 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+            dateOpenDate.Text = DateTime.Now.ToString();
+        }
+
+        private void btnFormClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

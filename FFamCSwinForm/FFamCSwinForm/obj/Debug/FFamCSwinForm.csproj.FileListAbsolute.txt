@@ -1,0 +1,10 @@
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\bin\Debug\FFamCSwinForm.exe.config
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\bin\Debug\FFamCSwinForm.exe
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\bin\Debug\FFamCSwinForm.pdb
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\obj\Debug\FFamCSwinForm.csprojAssemblyReference.cache
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\obj\Debug\FFamCSwinForm.Form1.resources
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\obj\Debug\FFamCSwinForm.Properties.Resources.resources
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\obj\Debug\FFamCSwinForm.csproj.GenerateResource.cache
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\obj\Debug\FFamCSwinForm.csproj.CoreCompileInputs.cache
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\obj\Debug\FFamCSwinForm.exe
+C:\Users\mr_re\source\repos\missshit78\FFam\FFamCSwinForm\FFamCSwinForm\obj\Debug\FFamCSwinForm.pdb
